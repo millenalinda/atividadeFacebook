@@ -1,0 +1,13 @@
+var user = {
+    nome: 'Maria Luisa Lima',
+    informação: 'Atrás de um amor',
+    sexo: 'Masculino',
+    DataDeNascimento: '20 de Março de 1985',
+    pais: 'João e Maria',
+    irmãos: 'Sammuel winchester',
+    cidade: 'Estados Unidos',
+    cidadenatal: 'Nova York, Texas',
+    bio: 'solteiro',
+    frasefavorita: 'A vida é feita de escolhas',
+    photo: 'gato 2.jpg'
+}

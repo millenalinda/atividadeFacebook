@@ -1,0 +1,70 @@
+/* Global Styles */
+body {
+    background-color: lightgrey;
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Top Bar Styles */
+.barraazulnotopo {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* User Photo Styles */
+#fotododitocujo {
+    width: 240px;
+    height: 360px;
+    border-radius: 10px;
+    margin: 10px auto; /* Center the image horizontally */
+    display: block;
+}
+
+/* User Information Container Styles */
+.quadradobranco {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    margin: 20px auto; /* Center the white square */
+    padding: 20px;
+    width: 80%; /* Set a width for better responsiveness */
+    max-width: 600px; /* Limit the maximum width */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+/* Paragraph Styles */
+.quadradobranco p {
+    margin-bottom: 15px;
+    line-height: 1.5; /* Improve readability by adjusting line height */
+}
+
+/* Spacing Styles */
+.espacobranco {
+    height: 50px;
+}
+
+/* Additional Styles for Facebook-like Sections */
+
+/* Publications */
+.publicacoes {
+    background-color: #f9f9f9; /* Light grey background */
+    padding: 20px; /* Add some padding */
+}
+
+/* Home */
+.home {
+    background-color: #f6f7f8; /* Light grey background */
+    padding: 20px; /* Add some padding */
+}
+
+/* Photos */
+.photos {
+    background-color: #f3f4f6; /* Light grey background */
+    padding: 20px; /* Add some padding */
+}
